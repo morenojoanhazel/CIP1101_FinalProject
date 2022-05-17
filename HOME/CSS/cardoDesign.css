@@ -1,0 +1,121 @@
+body{
+    background-image: url('../IMAGES/bg2.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    margin: 0%;
+}
+
+.header img {
+    float: left;
+    width: 100px;
+    height: 75px;
+}
+
+div.nav {
+    margin: .75%;
+    padding: 2%;
+    background-color: rgba(0, 0, 0, 0.441);
+}
+
+img.icon {
+    float: right;
+    margin-right: 2%;
+    padding: 0%;
+}
+
+img.header {
+    top: 20px;
+    float: left;
+    margin: 0%;
+    padding: 0%;
+    position: absolute;
+}
+
+a{
+    color: whitesmoke;
+    text-decoration: none;
+    padding: 10px;
+    margin: 10px;
+    font-size: 18px;
+    font-family: Helvetica;
+}
+
+a:hover {
+    color: aqua;
+
+}
+
+/****content****/
+
+h1, h2{
+    text-align: center;
+    color: white;
+
+}
+.sstories{
+    margin: 20px 10px;
+    overflow: auto;
+}
+
+img.successtories_img {
+    width: 300px;
+    height: 300px;
+    float: left;
+    margin: 20px 20px;
+}
+
+p{
+    color: white;
+    font-size: 1.25em;
+}
+
+div.one{
+    margin: 10px 0;
+}
+
+footer {
+    text-align: center;
+    padding: 3px;
+    background-color: DarkSalmon;
+    color: white;
+}
+  
+footer {
+    background-color: #838b64;
+    margin: 10px 0 0 0;
+}
+
+footer h2 {
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+footer > div,
+footer > .divider {
+    display: inline-block;
+    vertical-align: middle;   
+}
+
+footer > div {
+    padding: 1%;
+    text-align: center;
+    width:30%;
+}
+
+footer > .divider {
+    font-style: normal;
+    height: 240px;
+    border: 1px solid #888;
+    -webkit-box-shadow: 1px 2px 1px #ccc;
+    box-shadow: 1px 2px 1px #ccc;
+}
+
+.ic img{
+    width: 50px; 
+    height:50px;
+    margin: 5px; 
+    opacity: 0.75;
+    border-radius: 5px;
+    display: inline-block;
+}
