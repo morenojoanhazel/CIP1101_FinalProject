@@ -177,6 +177,7 @@ h3.meetcardo2{
     min-width:35%;
     font-size: 1.3em;
     border: 1px solid #7c897e;
+    margin:0;
 }
 h3.meetcardo2:hover{
     color: black;
