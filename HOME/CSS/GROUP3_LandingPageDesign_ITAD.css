@@ -229,3 +229,7 @@ img.facebook{
     border-radius: 5px;
     display: inline;
 }
+h2.follow{
+    margin: 0;
+    padding-bottom: 20px ;
+}
